@@ -1,0 +1,7 @@
+.gradle/
+.tools/
+.test-client/
+build/
+run/
+.test-client/
+*.log

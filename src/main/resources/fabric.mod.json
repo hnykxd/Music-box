@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "musicbox",
+  "version": "1.1.0",
+  "name": "Music Box / 音符盒调音台",
+  "description": "Right-click a note block for eight instruments and a chromatic pitch slider.",
+  "authors": ["Music Box contributors"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.musicbox.MusicBox"],
+    "client": ["dev.musicbox.client.MusicBoxClient"]
+  },
+  "mixins": ["musicbox.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": ">=0.160.7"
+  }
+}

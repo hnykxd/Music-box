@@ -1,0 +1,66 @@
+{
+  "piano": {
+    "sounds": [
+      {
+        "name": "musicbox:piano",
+        "stream": false
+      }
+    ]
+  },
+  "accordion": {
+    "sounds": [
+      {
+        "name": "musicbox:accordion",
+        "stream": false
+      }
+    ]
+  },
+  "recorder": {
+    "sounds": [
+      {
+        "name": "musicbox:recorder",
+        "stream": false
+      }
+    ]
+  },
+  "trumpet": {
+    "sounds": [
+      {
+        "name": "musicbox:trumpet",
+        "stream": false
+      }
+    ]
+  },
+  "suona": {
+    "sounds": [
+      {
+        "name": "musicbox:suona",
+        "stream": false
+      }
+    ]
+  },
+  "violin": {
+    "sounds": [
+      {
+        "name": "musicbox:violin",
+        "stream": false
+      }
+    ]
+  },
+  "saxophone": {
+    "sounds": [
+      {
+        "name": "musicbox:saxophone",
+        "stream": false
+      }
+    ]
+  },
+  "drums": {
+    "sounds": [
+      {
+        "name": "musicbox:drums",
+        "stream": false
+      }
+    ]
+  }
+}
